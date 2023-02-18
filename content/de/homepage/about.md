@@ -74,9 +74,11 @@ Zusätzliche, aber ebenso wichtige Punkte:
       
 - Uns stehen sowohl Innen- als auch Außenbereich zur Verfügung, die Feier sollte also auch bei Schlechtwetterlage weitgehend ungestört stattfinden können. ☔️
       
-- Nach dem Abendessen bitten wir euch zum Tanz. Keine Sorge, es wird kein Wettbewerb – tanzt einfach nach Lust und Laune. Unten ein Video zur Auffrischung für diejenigen, für die der letzte Walzer schon etwas länger her ist. 💃🏼
+- Nach dem Abendessen bitten wir euch zum Tanz. Keine Sorge, es wird kein Wettbewerb – tanzt einfach nach Lust und Laune. Unten ein Video zur Auffrischung für diejenigen, bei denen der letzte Walzer schon etwas länger her ist. 💃🏼
+
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5-fJHwX-oUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 
 Falls ihr Fragen, Anliegen oder Ideen habt, nehmt bitte jederzeit Kontakt mit uns auf. 😄
 
