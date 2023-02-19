@@ -44,7 +44,7 @@ We hope you can join us and look forward to spending this day together with fami
 - Arrival time is 13:00. We start with a free wedding ceremony and a <nobr>reception. 🕐</nobr>
 - Hallwang can be reached from Salzburg city by car within about 15 minutes, but is a bit hard to reach by public transport. However, there is the possibility of using a shuttle service from Salzburg main <nobr>station. 🚕</nobr>
 
-<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="85%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 For our planning, we would kindly ask you to respond to this message *within two weeks upon receiving it* with one out of three options:
 
@@ -76,7 +76,7 @@ Of course, we are aware that also upon accepting the invitation, unexpected thin
       
 - Well after dinner, we ask you to dance. Don't worry about this part, there will not be a competition - just dance if you feel like it. Further below some short instructions on how to dance Waltz, for those of you not too familiar with it <nobr>yet. 💃🏼</nobr>
 
-<p align="center"><iframe width="100%" height="338" src="https://www.youtube.com/embed/n8PIcO4_S5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p align="center"><iframe width="85%" height="400" src="https://www.youtube.com/embed/n8PIcO4_S5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 In case you have questions, remarks or ideas, please feel free to contact us any <nobr>time. 😄</nobr>
 
