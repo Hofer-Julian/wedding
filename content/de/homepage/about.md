@@ -29,9 +29,18 @@ widget:
     attachment: 
 ---
 
-<span style="font-size:1.5rem">
 
-## Wir Heiraten
+<h2 id="greeting">Wir heiraten</h2>
+
+<script>
+const name = new URLSearchParams(window.location.search).get('name');
+const greeting = document.getElementById("greeting")
+
+if(typeof(name) !== 'undefined' && name !== null) {
+  greeting.innerHTML = `Für ${name}`
+  greeting.style.visibility = "visible"
+}
+</script>
 
 Wir – Julian & Sabrina – laden euch herzlich zu unserer Hochzeitsfeier ein, die am 12.8.2023 in Hallwang, nahe der Stadt Salzburg, stattfinden soll.
 Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie und Freunden feiern zu dürfen! 🎉
