@@ -44,7 +44,7 @@ Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie 
 - Einlass zur Feier ist um 13:00. Wir starten mit einer freien Trauung sowie dem <nobr>Empfang. 🕐</nobr>
 - Hallwang ist von der Salzburger Innenstadt aus binnen etwa 15 Minuten mit dem Auto, aber nicht leicht mit öffentlichen Verkehrsmitteln zu erreichen. Es besteht die Möglichkeit eines Shuttleservices (oder anderweitigen Mitfahrgelegenheit, je nach Absprache) ab dem Salzburger <nobr>Hauptbahnhof. 🚕</nobr>
 
-<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 Zur besseren Planbarkeit würden wir euch freundlich ersuchen, uns *binnen zwei Wochen nach Erhalt dieser Nachricht* eine kurze Rückmeldung mit einer von drei Optionen zukommen zu lassen:
 
@@ -79,7 +79,7 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 - Nach dem Abendessen bitten wir euch zum Tanz. Keine Sorge, es wird kein Wettbewerb – tanzt einfach nach Lust und Laune. Unten ein Video zur Auffrischung für diejenigen, bei denen der letzte Walzer schon etwas länger her <nobr>ist. 💃🏼</nobr>
 
 
-<p align="center"><iframe width="600" height="338" src="https://www.youtube.com/embed/5-fJHwX-oUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="338" src="https://www.youtube.com/embed/5-fJHwX-oUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
 Falls ihr Fragen, Anliegen oder Ideen habt, nehmt bitte jederzeit Kontakt mit uns <nobr>auf. 😄</nobr>
