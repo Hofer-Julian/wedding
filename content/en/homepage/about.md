@@ -47,11 +47,11 @@ We hope you can join us and look forward to spending this day together with fami
 
 For our planning, we would kindly ask you to respond to this message *within two weeks upon receiving it* with one out of three options:
 
-1) Yes, I / we will gladly be there! → 🥳
+1) Yes, I/we will gladly be there! → 🥳
 
-2) Unfortunately, we can't make it, but have fun! → 🥲
+2) Unfortunately, I/we can't make it, but have fun! → 🥲
 
-3) I / we would like to join, but would need time until dd-mm-yyyy to be sure! → 🧐
+3) I/we would like to join, but would need time until dd-mm-yyyy to be sure! → 🧐
 
 Of course we hope that as many of you as possible can answer with the first option! In that fortunate case, please also share the following information with us right away:
 - How many people will you be? (relevant for families/couples)
