@@ -73,8 +73,7 @@ Of course we are aware that also upon accepting the invitation, unexpected thing
       
 - Well after dinner, we ask you to dance. Don't worry about this part, there will not be a competition - just dance if you feel like it. Further below some short instructions on how to dance Waltz. 💃🏼
 
-<p align="center"><iframe width="600" height="338" src="https://www.youtube.com/watch?v=n8PIcO4_S5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
+<p align="center"><iframe width="600" height="338" src="https://www.youtube.com/embed/n8PIcO4_S5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 In case you have questions, remarks or ideas, please feel free to contact us any time. 😄
 
