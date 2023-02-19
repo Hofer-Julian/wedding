@@ -53,7 +53,7 @@ Zur besseren Planbarkeit würden wir euch freundlich ersuchen, uns *binnen zwei 
 
 3) Würde(n) gerne kommen, brauche(n) aber noch Zeit bis zum X.X.2023, um sicher sein zu können! → 🧐
 
-Wir hoffen natürlich, dass möglichst viele von euch Option (1) rückmelden können!<br/>
+Wir hoffen, dass möglichst viele von euch die erste Option rückmelden können!<br/>
 In diesem Fall, bitte teilt uns folgende Informationen auch gleich mit:
 - Wie viele Personen kommen? (für Familien/Paare)
 - Möchtet ihr eine Mitfahrgelegenheit vom und/oder zum Salzburger Hauptbahnhof aus nutzen?
