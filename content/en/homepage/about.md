@@ -65,6 +65,8 @@ Of course we are aware that also upon accepting the invitation, unexpected thing
 
 - Dress code is mildly formal - please wear something in which you like to have photos taken of you, but in which you also feel physically comfortable for the day. The celebration will take place in August - hence, a light shirt and pants is likely a better choice than a heavy suit. 👒
 
+- There is absolutely no need to bring presents or even flowers. You being there is the best and biggest gift! 🥰
+
 - After the reception (with drinks) we start the afternoon by enjoying the wedding cake as well as a dessert buffet. 🍰<br/>In the evening, dinner will be served à la carte. Here, you will be able to choose from a marvelous selection of vegetarian (or vegan) dishes to your liking. 🥗
       
 - Drinks will be provided during the reception and can be ordered throughout the whole afternoon/evening. It's summer, so make sure to drink plenty! 🍹
