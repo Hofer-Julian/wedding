@@ -2,7 +2,7 @@
 title: Sabrinas und Julians Hochzeit
 draft: false
 avatar: images/icon.png
-bio: <span style="font-size:1.5rem"> 12. August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang.</span>
+bio: <span style="font-size:1.5rem"> 12. August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang,<br/>Salzburg, Österreich.</span>
 
 weight: 1
 widget:
