@@ -53,7 +53,7 @@ For our planning, we would kindly ask you to respond to this message *within two
 
 3) I/we would like to join, but would need time until dd-mm-yyyy to be sure! → 🧐
 
-Of course we hope that as many of you as possible can answer with the first option! In that fortunate case, please also share the following information with us right away:
+We hope that as many of you as possible can answer with the first option!<br/>In that fortunate case, please also share the following information with us right away:
 - How many people will you be? (relevant for families/couples)
 - Would you like to use the shuttleservice from/to Salzburg main station?
 - Would you like our support finding a nice accomodation in Salzburg?
