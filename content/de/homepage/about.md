@@ -65,7 +65,7 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 
 **Zusätzliche, aber ebenso wichtige Punkte:**
 
-- Kleiderordnung ist sanft formal – zieht bitte etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Die Feier findet immerhin im August statt – leichtes Hemd und Hose empfehlen sich da eher als ein schweres Sakko. 👒
+- Kleiderordnung ist sanft formal – zieht bitte etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Die Feier findet immerhin im August statt – leichtes Hemd und Hose empfehlen sich da eher als ein schweres <nobr>Sakko. 👒</nobr>
 
 - Wir ersuchen freundlich, von Geschenken in Form von Gegenständen sowie Blumensträußen weitgehend abzusehen. Falls ihr unsere Reise-/Umzugskasse etwas aufstocken möchtet, freuen wir uns natürlich über das ein oder andere Kuvert – gerne auch kreativ verpackt, falls ihr Lust <nobr>habt. 🎨</nobr><br/>Aber in aller Deutlichkeit: Euer Kommen ist das schönste und wichtigste <nobr>Geschenk! 🥰</nobr>
       
