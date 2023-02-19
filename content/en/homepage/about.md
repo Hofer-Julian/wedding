@@ -46,7 +46,8 @@ We hope you can join us and look forward to spending this day together with fami
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="85%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
-For our planning, we would kindly ask you to respond to this message *within two weeks upon receiving it* with one out of three options:
+For our planning, we would kindly ask you to respond *within two weeks upon receiving this invitation* by filling in our [online form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5).
+Here, we will first ask you to select one out of three options:
 
 1) Yes, I/we will gladly be there! <nobr>→ 🥳</nobr>
 
@@ -54,7 +55,7 @@ For our planning, we would kindly ask you to respond to this message *within two
 
 3) I/we would like to join, but would need time until dd-mm-yyyy to be sure! <nobr>→ 🧐</nobr>
 
-We hope that as many of you as possible can answer with the first option!<br/> In that fortunate case, please also share the following information with us right away:
+We hope that as many of you as possible can answer with the first option!<br/> In that fortunate case, please also share the following information with us (as mentioned in [our form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5)) right away:
 - How many people will you be? (relevant for families/couples)
 - Would you like to use the shuttle service from/to Salzburg main station?
 - Would you like our support finding a place to stay in Salzburg?
