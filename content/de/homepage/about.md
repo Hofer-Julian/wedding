@@ -49,7 +49,7 @@ Zur besseren Planbarkeit würden wir euch freundlich ersuchen, uns *binnen zwei 
 
 1) Ja, wir kommen / ich komme gerne! → 🥳
 
-2) Leider können wir nicht dabei sein, aber habt viel Spaß! → 🥲
+2) Leider können wir / kann ich nicht dabei sein, aber habt viel Spaß! → 🥲
 
 3) Würde(n) gerne kommen, brauche(n) aber noch Zeit bis zum X.X.2023, um sicher sein zu können! → 🧐
 
