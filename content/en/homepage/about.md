@@ -37,7 +37,7 @@ lang: en-US
 We – Julian & Sabrina – would like to invite you to our wedding celebration, which is going to take place <nobr>12<sup>th</sup> August 2023</nobr> in Hallwang, close to the city of Salzburg.
 We hope you can join us and look forward to spending this day together with family and <nobr>friends! 🎉</nobr>
 
-**Key facts at a glance:**
+### Key facts at a glance
 
 - The celebration is going to take place in [DaxLueg](https://www.daxlueg.at/index.php/en/) in Hallwang, northeast of the city of Salzburg.
 - The full address is: [Daxluegstrasse 5, 5300 Hallwang](https://www.google.com/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Province Salzburg, <nobr>Austria). 📍</nobr>
@@ -46,26 +46,13 @@ We hope you can join us and look forward to spending this day together with fami
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="85%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
-**Your response:**
+### Your response
 
 For our planning, we would kindly ask you to respond *within two weeks upon receiving this invitation* by filling in our [online form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5).
-Here, we will first ask you to select one out of three options:
-
-1) Yes, I/we will gladly be there! <nobr>→ 🥳</nobr>
-
-2) Unfortunately, I/we can't make it, but have fun! <nobr>→ 🥲</nobr>
-
-3) I/we would like to join, but would need time until dd-mm-yyyy to be sure! <nobr>→ 🧐</nobr>
-
-We hope that as many of you as possible can answer with the first option!<br/> In that fortunate case, please also share the following information with us (as mentioned in [our form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5)) right away:
-- How many people will you be? (relevant for families/couples)
-- Would you like to use the shuttle service from/to Salzburg main station?
-- Would you like our support finding a place to stay in Salzburg?
-- Do you have allergies or dietary restrictions?
 
 Of course, we are aware that also upon accepting the invitation, unexpected things can happen that prevent you from joining - in that case, just let us know as soon as possible.
 
-**Additional, but just as important points:**
+### Additional, but just as important points
 
 - Dress code is mildly formal - please wear something in which you like to have photos taken of you, but in which you also feel physically comfortable for the day. The celebration will take place in August - hence, a light shirt and pants is a better choice than a heavy <nobr>suit. 👒</nobr>
 

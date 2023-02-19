@@ -37,7 +37,7 @@ lang: de-AT
 Wir – Julian & Sabrina – laden euch herzlich zu unserer Hochzeitsfeier ein, die am <nobr>12. August 2023</nobr> in Hallwang, nahe der Stadt Salzburg, stattfinden soll.
 Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie und Freunden feiern zu <nobr>dürfen! 🎉</nobr>
 
-**Das Wichtigste auf einen Blick:**
+### Das Wichtigste auf einen Blick
 
 - Die Feier wird im [DaxLueg](https://www.daxlueg.at/index.php/de/) in Hallwang, nordöstlich der Stadt Salzburg, stattfinden.
 - Die vollständige Adresse lautet: [Daxluegstrasse 5, 5300 Hallwang](https://www.google.at/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Bundesland Salzburg, <nobr>Österreich). 📍</nobr>
@@ -46,26 +46,13 @@ Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie 
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.5606575543875!2d13.091401315638226!3d47.82873087920003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769a3e20e0e0a1%3A0xc23dca54874db104!2sPanoramagasthof%20DaxLueg%20-%20Schuber%20OG!5e0!3m2!1sde!2snl!4v1676760321257!5m2!1sde!2snl" width="85%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
-**Eure Rückmeldung:**
+### Eure Rückmeldung
 
-Zur besseren Planbarkeit würden wir euch freundlich ersuchen, uns *binnen zwei Wochen nach Erhalt dieser Einladung* eine Rückmeldung mittels [Online-Formular](https://cloud.jusa.at/index.php/apps/forms/s/gfmfYkfmH7LcMHDAY9cs2yoF) zukommen zu lassen. Hier bitten wir euch zunächst, eine der folgenden Optionen auszuwählen:
-
-1) Ja, wir kommen / ich komme gerne! <nobr>→ 🥳</nobr>
-
-2) Leider können wir / kann ich nicht dabei sein, aber habt viel Spaß! <nobr>→ 🥲</nobr>
-
-3) Würde(n) gerne kommen, brauche(n) aber noch Zeit bis zum X.X.2023, um sicher sein zu können! <nobr>→ 🧐</nobr>
-
-Wir hoffen, dass möglichst viele von euch die erste Option rückmelden können!<br/>
-In diesem glücklichen Fall, teilt uns bitte (wie im [Formular](https://cloud.jusa.at/index.php/apps/forms/s/gfmfYkfmH7LcMHDAY9cs2yoF) erwähnt) folgende Informationen auch gleich mit:
-- Wie viele Personen kommen? (für Familien/Paare)
-- Möchtet ihr eine Mitfahrgelegenheit vom und/oder zum Salzburger Hauptbahnhof aus nutzen?
-- Wünscht ihr euch Unterstützung bei der Suche nach einer Unterkunft in Salzburg?
-- Habt ihr Allergien oder andere Ernährungseinschränkungen?
+Zur besseren Planbarkeit würden wir euch freundlich ersuchen, uns *binnen zwei Wochen* nach Erhalt dieser Einladung eine Rückmeldung mittels [Online-Formular](https://cloud.jusa.at/index.php/apps/forms/s/gfmfYkfmH7LcMHDAY9cs2yoF) zukommen zu lassen.
 
 Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in dem Fall, lasst es uns einfach so bald wie möglich wissen. 
 
-**Zusätzliche, aber ebenso wichtige Punkte:**
+### Zusätzliche, aber ebenso wichtige Punkte
 
 - Kleiderordnung ist sanft formal – zieht bitte etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Die Feier findet immerhin im August statt – leichtes Hemd und Hose empfehlen sich da eher als ein schweres <nobr>Sakko. 👒</nobr>
 
