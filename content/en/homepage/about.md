@@ -32,7 +32,7 @@ lang: en-US
 
 <span style="font-size:1.25rem">
 
-## We're getting married
+## We're inviting you!
 
 We – Julian & Sabrina – would like to invite you to our wedding celebration, which is going to take place <nobr>12<sup>th</sup> August 2023</nobr> in Hallwang, close to the city of Salzburg.
 We hope you can join us and look forward to spending this day together with family and <nobr>friends! 🎉</nobr>

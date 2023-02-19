@@ -32,7 +32,7 @@ lang: de-AT
 
 <span style="font-size:1.25rem">
 
-## Wir heiraten
+## Wir laden euch ein!
 
 Wir – Julian & Sabrina – laden euch herzlich zu unserer Hochzeitsfeier ein, die am <nobr>12. August 2023</nobr> in Hallwang, nahe der Stadt Salzburg, stattfinden soll.
 Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie und Freunden feiern zu <nobr>dürfen! 🎉</nobr>
