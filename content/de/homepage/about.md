@@ -61,8 +61,6 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 - Nach dem Empfang genießen wir mit euch am Nachmittag die Hochzeitstorte sowie ein Süßspeisen-<nobr>Buffet. 🍰</nobr><br/>Am Abend folgt das Dinner à la carte.
   Hier könnt ihr aus einem herrlichen Sortiment an rein vegetarischen (sowie veganen) Gerichten <nobr>wählen. 🥗</nobr>
       
-- Getränke gibt es beim Empfang sowie den ganzen Nachmittag/Abend über auf Bestellung. Es ist Sommer, also achtet bitte darauf, genug zu <nobr>trinken! 🍹</nobr>
-      
 - Uns stehen sowohl Innen- als auch Außenbereich zur Verfügung, die Feier sollte also auch bei Schlechtwetterlage weitgehend ungestört stattfinden <nobr>können. ☔️</nobr>
       
 - Nach dem Abendessen bitten wir euch zum Tanz. Keine Sorge, es wird kein Wettbewerb – tanzt einfach nach Lust und Laune. Unten ein Video zur Auffrischung für diejenigen, bei denen der letzte Walzer schon etwas länger her <nobr>ist. 💃🏼</nobr>
