@@ -48,7 +48,7 @@ We hope you can join us and look forward to spending this day together with fami
 
 ### Your response
 
-For our planning, we would kindly ask you to respond *within two weeks upon receiving this invitation* by filling in our [online form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5).
+For our planning, we would kindly ask you to respond to us *within two weeks upon receiving this invitation* by filling in our [online form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5).
 
 Of course, we are aware that also upon accepting the invitation, unexpected things can happen that prevent you from joining - in that case, just let us know as soon as possible.
 
