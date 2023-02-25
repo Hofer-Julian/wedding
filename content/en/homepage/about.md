@@ -54,7 +54,7 @@ Of course, we are aware that also upon accepting the invitation, unexpected thin
 
 ### Additional, but just as important points
 
-- Please wear something in which you like to have photos taken of you, but in which you also feel physically comfortable for the day. We recommend a nice shirt or blouse with some elegant pants. The celebration will take place in August. Therefore, please adapt your choice of clothing to the weather <nobr>forecast. 😎</nobr>
+- Please wear something in which you like to have photos taken of you and in which you also feel physically comfortable for the day. We recommend a nice shirt or blouse with some elegant pants. The celebration will take place in August. Therefore, please adapt your choice of clothing to the weather <nobr>forecast. 😎</nobr>
 
 - You being there is the best and biggest gift. There is absolutely no need to bring presents or especially <nobr>flowers. 🥰</nobr>
 

@@ -55,7 +55,7 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 ### Zusätzliche, aber ebenso wichtige Punkte
 
 
-- Bitte zieht etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Wir empfehlen ein Hemd oder eine Bluse mit einer schönen Hose. Die Feier findet im August statt, also bitte passt eure Kleiderwahl an den Wetterbericht <nobr>an. 😎</nobr>
+- Bitte zieht etwas an, in dem ihr euch gerne fotografieren lasst, und in dem ihr euch auch wohlfühlt. Wir empfehlen ein Hemd oder eine Bluse mit einer schönen Hose. Die Feier findet im August statt, also bitte passt eure Kleiderwahl an den Wetterbericht <nobr>an. 😎</nobr>
 
 - Das wichtigste Geschenk ist euer Kommen. Falls ihr uns gerne etwas mitbringen möchtet, freuen wir uns über Beiträge zu unserer Reisekasse mehr als über Blumen oder <nobr>Gegenstände. 💸</nobr>
       
