@@ -57,7 +57,7 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 
 - Bitte zieht etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Wir empfehlen ein Hemd oder eine Bluse mit einer schönen Hose. Die Feier findet im August statt, also bitte passt eure Kleiderwahl an den Wetterbericht <nobr>an. 😎</nobr>
 
-- Das wichtigste Geschenk ist euer Kommen. Falls ihr uns gerne etwas mitbringen möchtet, freuen wir uns über Beiträge zu unserer Reisekasse mehr als über Blumen und <nobr>Gegenstände. 💸</nobr>
+- Das wichtigste Geschenk ist euer Kommen. Falls ihr uns gerne etwas mitbringen möchtet, freuen wir uns über Beiträge zu unserer Reisekasse mehr als über Blumen oder <nobr>Gegenstände. 💸</nobr>
       
 - Nach dem Empfang genießen wir mit euch am Nachmittag die Hochzeitstorte sowie ein Süßspeisen-<nobr>Buffet. 🍰</nobr><br/>Am Abend folgt das Dinner à la carte.
   Hier könnt ihr aus einem herrlichen Sortiment an rein vegetarischen (sowie veganen) Gerichten <nobr>wählen. 🥗</nobr>
