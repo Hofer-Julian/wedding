@@ -2,7 +2,7 @@
 title: Sabrina's and Julian's Wedding
 draft: false
 avatar: images/icon.png
-bio: <span style="font-size:1.25rem"> 12<sup>th</sup> August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang,<br/>Salzburg, Austria.<br/>Please fill in [response form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5) here!</span>
+bio: <span style="font-size:1.25rem"> 12<sup>th</sup> August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang,<br/>Salzburg, Austria.<br/>Please fill in the <ins>[response form](https://cloud.jusa.at/index.php/apps/forms/s/jstAx4mtPyWRD3TcBKRLdnE5)<ins/>!</span>
 
 weight: 1
 widget:
