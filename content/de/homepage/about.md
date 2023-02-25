@@ -59,7 +59,7 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 
 - Das wichtigste Geschenk ist euer Kommen. Falls ihr uns gerne etwas mitbringen möchtet, freuen wir uns über Beiträge zu unserer Reisekasse mehr als über Blumen oder <nobr>Gegenstände. 💸</nobr>
       
-- Nach dem Empfang genießen wir mit euch am Nachmittag die Hochzeitstorte sowie ein Süßspeisen-<nobr>Buffet. 🍰</nobr><br/>Am Abend folgt das Dinner à la carte.
+- Nach dem Empfang genießen wir mit euch am Nachmittag die <nobr>Hochzeitstorte. 🍰</nobr><br/>Am Abend folgt das Dinner à la carte.
   Hier könnt ihr aus einem herrlichen Sortiment an rein vegetarischen (sowie veganen) Gerichten <nobr>wählen. 🥗</nobr>
       
 - Uns stehen sowohl Innen- als auch Außenbereich zur Verfügung, die Feier sollte also auch bei Schlechtwetterlage weitgehend ungestört stattfinden <nobr>können. ☔️</nobr>

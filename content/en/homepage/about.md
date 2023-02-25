@@ -58,7 +58,7 @@ Of course, we are aware that also upon accepting the invitation, unexpected thin
 
 - You being there is the best and biggest gift. There is absolutely no need to bring presents or especially <nobr>flowers. 🥰</nobr>
 
-- After the reception (with drinks) we start the afternoon by enjoying the wedding cake as well as a dessert <nobr>buffet. 🍰</nobr><br/> In the evening, dinner will be served à la carte. Here, you will be able to choose from a marvelous selection of vegetarian (or vegan) dishes to your <nobr>liking. 🥗</nobr>
+- After the reception (with drinks) we start the afternoon by enjoying the wedding <nobr>cake. 🍰</nobr><br/> In the evening, dinner will be served à la carte. Here, you will be able to choose from a marvelous selection of vegetarian (or vegan) dishes to your <nobr>liking. 🥗</nobr>
       
 - Drinks will be provided during the reception and can be ordered throughout the whole afternoon/evening. It's summer, so make sure to drink <nobr>plenty! 🍹</nobr>
       
