@@ -54,9 +54,10 @@ Es kann natürlich auch nach einer Zusage immer etwas dazwischen kommen – in d
 
 ### Zusätzliche, aber ebenso wichtige Punkte
 
-- Kleiderordnung ist sanft formal – zieht bitte etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Die Feier findet immerhin im August statt – leichtes Hemd und Hose empfehlen sich da eher als ein schweres <nobr>Sakko. 👒</nobr>
 
-- Wir ersuchen freundlich, von Geschenken in Form von Gegenständen sowie Blumensträußen weitgehend abzusehen. Falls ihr unsere Reise-/Umzugskasse etwas aufstocken möchtet, freuen wir uns natürlich über das ein oder andere Kuvert – gerne auch kreativ verpackt, falls ihr Lust <nobr>habt. 🎨</nobr><br/>Aber in aller Deutlichkeit: Euer Kommen ist das schönste und wichtigste <nobr>Geschenk! 🥰</nobr>
+- Bitte zieht etwas an, in dem ihr euch gerne fotografieren lasst, aber in dem ihr euch auch wohlfühlt. Wir empfehlen ein Hemd oder eine Bluse mit einer schönen Hose. Die Feier findet im August statt, also bitte passt eure Kleiderwahl an den Wetterbericht <nobr>an. 😎</nobr>
+
+- Das wichtigste Geschenk ist euer Kommen. Falls ihr uns gerne etwas mitbringen möchtet, freuen wir uns über Beiträge zu unserer Reisekasse mehr als über Blumen und <nobr>Gegenstände. 💸</nobr>
       
 - Nach dem Empfang genießen wir mit euch am Nachmittag die Hochzeitstorte sowie ein Süßspeisen-<nobr>Buffet. 🍰</nobr><br/>Am Abend folgt das Dinner à la carte.
   Hier könnt ihr aus einem herrlichen Sortiment an rein vegetarischen (sowie veganen) Gerichten <nobr>wählen. 🥗</nobr>

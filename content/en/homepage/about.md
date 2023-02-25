@@ -54,9 +54,9 @@ Of course, we are aware that also upon accepting the invitation, unexpected thin
 
 ### Additional, but just as important points
 
-- Dress code is mildly formal - please wear something in which you like to have photos taken of you, but in which you also feel physically comfortable for the day. The celebration will take place in August - hence, a light shirt and pants is a better choice than a heavy <nobr>suit. 👒</nobr>
+- Please wear something in which you like to have photos taken of you, but in which you also feel physically comfortable for the day. We recommend a nice shirt or blouse with some elegant pants. The celebration will take place in August. Therefore, please adapt your choice of clothing to the weather <nobr>forecast. 😎</nobr>
 
-- There is absolutely no need to bring presents or even flowers. You being there is the best and biggest <nobr>gift! 🥰</nobr>
+- You being there is the best and biggest gift. There is absolutely no need to bring presents or especially <nobr>flowers. 🥰</nobr>
 
 - After the reception (with drinks) we start the afternoon by enjoying the wedding cake as well as a dessert <nobr>buffet. 🍰</nobr><br/> In the evening, dinner will be served à la carte. Here, you will be able to choose from a marvelous selection of vegetarian (or vegan) dishes to your <nobr>liking. 🥗</nobr>
       
