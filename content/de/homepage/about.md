@@ -2,7 +2,7 @@
 title: Sabrinas und Julians Hochzeit
 draft: false
 avatar: images/icon.png
-bio: <span style="font-size:1.25rem"> 12. August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang,<br/>Salzburg, Österreich.<br/></span>
+bio: <span style="font-size:1.25rem"> 12. August 2023, DaxLueg.<br/>Daxluegstraße 5, 5300 Hallwang,<br/>Salzburg, Österreich.<br/></span>
 
 weight: 1
 widget:
@@ -41,7 +41,7 @@ Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie 
 
 - Die Feier wird im [DaxLueg](https://www.daxlueg.at/index.php/de/) in Hallwang, nordöstlich der Stadt Salzburg, stattfinden.
 
-- Die vollständige Adresse lautet: [Daxluegstrasse 5, 5300 Hallwang](https://www.google.at/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Bundesland Salzburg, <nobr>Österreich). 📍</nobr>
+- Die vollständige Adresse lautet: [Daxluegstraße 5, 5300 Hallwang](https://www.google.at/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Bundesland Salzburg, <nobr>Österreich). 📍</nobr>
 
 - Einlass zur Feier ist ab <nobr>12:30. 👋</nobr>
 
