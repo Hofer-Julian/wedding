@@ -45,7 +45,7 @@ Wir hoffen sehr auf euer Kommen und freuen uns, diesen Tag zusammen mit Familie 
 
 - Einlass zur Feier ist ab <nobr>12:30. 👋</nobr>
 
-- Wir arrangieren daher einen Shuttleservice vom Salzburger Hauptbahnhof zum Veranstaltungsort & retour, den ihr bei Bedarf in Anspruch nehmen könnt. Denjenigen von euch, die angegeben haben im Shuttle mitfahren zu wollen, schicken wir am Vortag eine Nachricht mit näheren Informationen.<br>
+- Wir arrangieren daher einen Shuttleservice vom [Salzburger Hauptbahnhof](https://www.google.de/maps/place/Salzburg/@47.8136411,13.0447562,17z/data=!4m6!3m5!1s0x47769078f3c7634f:0xfb02fe56aad5409c!8m2!3d47.8130704!4d13.0450707!16s%2Fm%2F0c00lw5?hl=en&entry=ttu) zum Veranstaltungsort & retour, den ihr bei Bedarf in Anspruch nehmen könnt. Denjenigen von euch, die angegeben haben im Shuttle mitfahren zu wollen, schicken wir am Vortag eine Nachricht mit näheren Informationen.<br>
 Bitte plant, ab 11:45 abholbereit zu sein. Treffpunkt ist der *Hintereingang Hauptbahnhof <nobr>Lasserstraße*. 🚕</nobr>
 
 - Falls sich im Vorfeld der Hochzeit etwas Nennenswertes am Ablauf ändert, werden wir die Informationen hier aktualisieren. Wir empfehlen also, kurz vor dem Termin noch einen Blick auf diese Webseite zu <nobr>werfen. 🤓</nobr> 
