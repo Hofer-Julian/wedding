@@ -2,7 +2,7 @@
 title: Sabrina's and Julian's Wedding
 draft: false
 avatar: images/icon.png
-bio: <span style="font-size:1.25rem"> 12<sup>th</sup> August 2023, DaxLueg.<br/>Daxluegstrasse 5, 5300 Hallwang,<br/>Salzburg, Austria.</span>
+bio: <span style="font-size:1.25rem"> 12<sup>th</sup> August 2023, DaxLueg.<br/>Daxluegstraße 5, 5300 Hallwang,<br/>Salzburg, Austria.</span>
 
 weight: 1
 widget:
@@ -40,7 +40,7 @@ We hope you can join us and look forward to spending this day together with fami
 ### Key facts at a glance - version 2.0
 
 - The celebration is going to take place in [DaxLueg](https://www.daxlueg.at/index.php/en/) in Hallwang, northeast of the city of Salzburg.
-- The full address is: [Daxluegstrasse 5, 5300 Hallwang](https://www.google.com/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Province Salzburg, <nobr>Austria). 📍</nobr>
+- The full address is: [Daxluegstraße 5, 5300 Hallwang](https://www.google.com/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Province Salzburg, <nobr>Austria). 📍</nobr>
 - Arrival time is <nobr>12:30 👋.</nobr>
 - As Hallwang is a bit hard to reach via public transport, we arranged for a shuttle service from Salzburg main station to the venue & back. Those of you who indicated they would like to use this service will receive a message with further instructions on the day before. Please try to be ready for pickup as of 11:45. Pickup location is *Hintereingang Hauptbahnhof <nobr>Lasserstraße*. 🚕</nobr>
 - Should something important change regarding the wedding's schedule, we are going to update the information here. Hence, please have another look at this website shortly before the event <nobr>date. 🤓</nobr> 
