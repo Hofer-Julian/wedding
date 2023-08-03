@@ -42,7 +42,7 @@ We hope you can join us and look forward to spending this day together with fami
 - The celebration is going to take place in [DaxLueg](https://www.daxlueg.at/index.php/en/) in Hallwang, northeast of the city of Salzburg.
 - The full address is: [Daxluegstraße 5, 5300 Hallwang](https://www.google.com/maps/place/Panoramagasthof+DaxLueg+-+Schuber+OG/@47.8273598,13.090556,17.29z/data=!4m16!1m7!3m6!1s0x47769a15886fc89b:0x3c8c93a5f2098a56!2sDaxluegstra%C3%9Fe+5,+5300+Esch,+%C3%96sterreich!3b1!8m2!3d47.8287309!4d13.09359!3m7!1s0x47769a3e20e0e0a1:0xc23dca54874db104!5m2!4m1!1i2!8m2!3d47.8286605!4d13.0936105?hl=de) (Province Salzburg, <nobr>Austria). 📍</nobr>
 - Arrival time is <nobr>12:30 👋.</nobr>
-- As Hallwang is a bit hard to reach via public transport, we arranged for a shuttle service from [Salzburg main station](https://www.google.com/maps/place/Salzburg/@47.8136411,13.0447562,17z/data=!4m6!3m5!1s0x47769078f3c7634f:0xfb02fe56aad5409c!8m2!3d47.8130704!4d13.0450707!16s%2Fm%2F0c00lw5?hl=en&entry=ttu) to the venue & back. Those of you who indicated they would like to use this service will receive a message with further instructions on the day before. Please try to be ready for pickup as of 11:45. Pickup location is *Hintereingang Hauptbahnhof <nobr>Lasserstraße*. 🚕</nobr>
+- As Hallwang is a bit hard to reach via public transport, we arranged for a shuttle service from [Salzburg main station](https://www.google.com/maps/place/Salzburg/@47.8136411,13.0447562,17z/data=!4m6!3m5!1s0x47769078f3c7634f:0xfb02fe56aad5409c!8m2!3d47.8130704!4d13.0450707!16s%2Fm%2F0c00lw5?hl=en&entry=ttu) to the venue & back. Those of you who indicated they would like to use this service: Please be ready for pickup at 11:45! Pickup location is *Hintereingang Hauptbahnhof Lasserstraße*. Look out for a large car which has "DaxLueg" written on <nobr>it.🚕</nobr>
 - Should something important change regarding the wedding's schedule, we are going to update the information here. Hence, please have another look at this website shortly before the event <nobr>date. 🤓</nobr> 
 
 ### About the schedule
@@ -63,6 +63,7 @@ After that, we can enjoy desserts from a <nobr>buffet. 🍨</nobr>
 
 - As of 21:30, we will ask you to dance. We start with a Slow Waltz, followed by mixed dancing styles (Standard, Latin, or just however you <nobr>like). 🕺</nobr>
 
+- Those of you who are still around by midnight will be rewarded with a late-night <nobr>snack. 😋</nobr>
 
 ### Additional, just as important points
 
